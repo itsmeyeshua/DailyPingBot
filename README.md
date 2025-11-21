@@ -83,7 +83,7 @@ git push
 
 The workflow runs daily at **12:00 PM UTC** by default. To change the schedule:
 
-1. Edit `.github/workflows/ping.yml`
+1. Edit `.github/workflows/actions.yml`
 2. Modify the cron expression:
 ```yaml
 schedule:
